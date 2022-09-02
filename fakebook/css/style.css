@@ -102,31 +102,23 @@ input[type=submit]{
 	font-size: 0.9em;
 	text-align: center;
 	margin-top: 50px;
-	margin-left: 100px;
+	margin-left: 90px;
 	float: left;
 
 }
 
-@media (min-width: 976px) {
-	#idiomas-l{
-		margin-left: 350px;
-	}
-}
+
 
 #idiomas-r{
 	color: #193E8C;
 	font-size: 0.9em;
 	text-align: center;
 	margin-top: 50px;
-	margin-right: 100px;
+	margin-right: 90px;
 	float: right;
 }
 
-@media (min-width: 976px) {
-	#idiomas-r{
-		margin-right: 350px;
-	}
-}
+
 
 #more{
 	text-align: center;
@@ -156,4 +148,16 @@ footer p{
 	font-size: 0.7rem;
     text-decoration: none;
 	color: #737576;
+}
+
+@media (min-width: 976px) {
+	#idiomas-r{
+		margin-right: 350px;
+	}
+}
+
+@media (min-width: 976px) {
+	#idiomas-l{
+		margin-left: 350px;
+	}
 }
