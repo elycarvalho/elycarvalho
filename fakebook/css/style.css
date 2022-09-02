@@ -4,6 +4,8 @@
 	font-family: arial;
 }
 
+a{text-decoration: none;}
+
 .logo{
 	text-align: center;
 	color: #1C51EB;
