@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elycarvalho
+- 👋 Hi, I’m **Ely Carvalho**
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML/CSS/JavaScipt.
 - 💞️ I’m looking to collaborate on projects related to HTML/CSS and JavaScript.
